@@ -1,1 +1,1 @@
-Sitemap: https://45b8ba15-e3a5-4e31-807d-8dbadea66d31.netlify.app/sitemap.xml
+Sitemap: https://0xdeadd.github.io/blog/sitemap.xml
